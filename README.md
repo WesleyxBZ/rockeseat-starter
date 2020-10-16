@@ -7,5 +7,4 @@ Códigos das vídeos aulas Curso Starter @Rocketseat
 
 # :computer: Tecnologias
 * JavaScript
-* Webpack
-* Axios
+* ReactJS
